@@ -1,4 +1,4 @@
--------------SKAPA FÖRST LIBRARY-----------
+CREATE DATABASE Library;
 
 use Library;
 
