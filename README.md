@@ -6,4 +6,6 @@ Sedan körs den lokala funktionen i menyklassen beroende på användarens val so
 
 Det finns tre klasser, en menu, en loan och en book. Samt database och BookDAO förstås.
 
+Som inspiration använde jag lektionsanteckningar. 
+
 Gjort an Anton Lindström 02-19-2025
